@@ -13,7 +13,7 @@ const AppDownload: React.FC = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center p-8 md:p-16">
           <div className="space-y-8 relative z-10 text-white">
             <h2 className="text-4xl md:text-5xl font-extrabold leading-tight">
-              Get Alpha Health <br /> App Now
+              Get Omega Health <br /> App Now
             </h2>
             <p className="text-white/80 text-lg leading-relaxed max-w-md">
               Available for free on all major platforms. Download now to start your journey towards a healthier life.

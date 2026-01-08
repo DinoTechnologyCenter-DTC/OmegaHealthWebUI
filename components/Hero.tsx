@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-lg text-slate-600 leading-relaxed">
-            Explore disease information, track your wellness, and stay healthy with Alpha Health. The all-in-one companion for your family's medical needs.
+            Explore disease information, track your wellness, and stay healthy with Omega Health. The all-in-one companion for your family's medical needs.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">

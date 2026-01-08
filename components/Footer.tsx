@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
               <div className="bg-[#0072C6] p-2 rounded-lg">
                 <Heart className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-slate-900">Alpha Health</span>
+              <span className="text-xl font-bold text-slate-900">Omega Health</span>
             </div>
             <p className="text-slate-500 max-w-sm leading-relaxed">
               Making healthcare accessible, understandable, and manageable for everyone. Your trusted digital health partner since 2024.
@@ -63,7 +63,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="pt-8 border-t border-slate-50 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-400">
-          <p>© 2026 Alpha Health. All rights reserved.</p>
+          <p>© 2026 Omega Health. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-[#0072C6]">Privacy Policy</a>
             <a href="#" className="hover:text-[#0072C6]">Cookie Settings</a>

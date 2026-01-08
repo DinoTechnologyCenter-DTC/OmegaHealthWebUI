@@ -45,7 +45,7 @@ const Header: React.FC<HeaderProps> = ({ scrolled }) => {
             <Heart className="w-6 h-6 text-white" />
           </div>
           <span className={`text-xl font-bold tracking-tight ${scrolled ? 'text-[#0072C6]' : 'text-slate-900'}`}>
-            Alpha Health
+            Omega Health
           </span>
         </div>
 
